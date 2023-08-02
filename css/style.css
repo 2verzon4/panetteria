@@ -1,4 +1,7 @@
-.fixed-top{
-    position: absolute;
-    top: 5px;
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
 }
